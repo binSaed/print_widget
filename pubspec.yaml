@@ -1,0 +1,22 @@
+name: print_widget
+description: "A widget to print data next to other widgets"
+version: 0.0.1
+homepage: https://bnsaed.com
+repository: https://github.com/binSaed/print_widget
+issue_tracker: https://github.com/binSaed/print_widget/issues
+topics:
+  - print
+  - widget
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
